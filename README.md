@@ -10,3 +10,6 @@ Miscellaneous
 1. Add Templates
 1. Plugins
    - Cucumber - https://cucumber.io/cucumber-eclipse/
+
+# Others
+1. .gitignore - refer to this gitingnore
