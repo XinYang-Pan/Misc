@@ -16,6 +16,8 @@ Miscellaneous
 1. Plugins
    - Cucumber - https://cucumber.io/cucumber-eclipse/
 1. Refactor
+   - rename field - getter setter
+   - rename Class - var names
 
 # Others
 1. .gitignore - refer to this gitingnore
