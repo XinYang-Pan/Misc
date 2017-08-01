@@ -19,5 +19,12 @@ Miscellaneous
    - rename field - getter setter
    - rename Class - var names
 
+# Centre Maven
+1. Staging Repo
+1. Close it
+1. Release it
+1. Don't do SNAPSHOT
+
+
 # Others
 1. .gitignore - refer to this gitingnore
