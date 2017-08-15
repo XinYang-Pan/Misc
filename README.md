@@ -1,6 +1,10 @@
 # Misc
 Miscellaneous
 
+# Online Diagram Tools
+- Sequence - https://www.websequencediagrams.com/
+- Multiple - https://cloud.smartdraw.com/
+
 # New Spring Tool Suite/Eclipse Set up Guide
 1. Package to hierarchy
 1. Project Sets
