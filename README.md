@@ -1,11 +1,11 @@
 # Misc
 Miscellaneous
 
-# Online Diagram Tools
+## Online Diagram Tools
 - Sequence - https://www.websequencediagrams.com/
 - Multiple - https://cloud.smartdraw.com/
 
-# New Spring Tool Suite/Eclipse Set up Guide
+## New Spring Tool Suite/Eclipse Set up Guide
 1. Package to hierarchy
 1. Project Sets
 1. Line Number
@@ -23,12 +23,12 @@ Miscellaneous
    - rename field - getter setter
    - rename Class - var names
 
-# Centre Maven
+## Centre Maven
 1. Staging Repo
 1. Close it
 1. Release it
 1. Don't do SNAPSHOT
 
 
-# Others
+## Others
 1. .gitignore - refer to this gitingnore
