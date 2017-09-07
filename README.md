@@ -10,3 +10,6 @@
 1. [Front End Tech](https://github.com/XinYang-Pan/Misc/wiki/Front-End-Tech)
 1. [Git](https://github.com/XinYang-Pan/Misc/wiki/Git)
 1. [微信](https://github.com/XinYang-Pan/Misc/wiki/%E5%BE%AE%E4%BF%A1)
+
+# Other
+1. [Accounting](http://www.principlesofaccounting.com/chapter-1/)
