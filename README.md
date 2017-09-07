@@ -32,3 +32,16 @@ Miscellaneous
 
 ## Others
 1. .gitignore - refer to this gitingnore
+
+## Front End Tech
+
+### Icons
+1. http://www.streamlineicons.com/index-testimonials.html
+1. https://www.iconfinder.com/
+
+### Fonts
+1. http://fontawesome.io/
+
+### web pages(Template Engine)
+1. http://www.thymeleaf.org/
+
