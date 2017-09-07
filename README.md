@@ -29,7 +29,6 @@ Miscellaneous
 1. Release it
 1. Don't do SNAPSHOT
 
-
 ## Others
 1. .gitignore - refer to this gitingnore
 
@@ -45,3 +44,6 @@ Miscellaneous
 ### web pages(Template Engine)
 1. http://www.thymeleaf.org/
 
+## Other Tech
+### git
+1. A successful Git branching model - http://nvie.com/posts/a-successful-git-branching-model/
